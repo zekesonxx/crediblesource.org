@@ -1,0 +1,7 @@
+# Site settings
+title: Credible Source
+description: "A free source of information, and it has to be credible, as it's a .org right?"
+url: "https://crediblesource.org"
+
+# Build settings
+markdown: kramdown

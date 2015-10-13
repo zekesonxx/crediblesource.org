@@ -1,0 +1,29 @@
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+<!-- Fonts -->
+<link href='https://fonts.googleapis.com/css?family=Merriweather:400,400italic|Lato|Open+Sans:400,400italic|Anonymous+Pro' rel='stylesheet' type='text/css'>
+
+<!-- Actual CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.min.css">
+<link rel="stylesheet" href="/css/main.css">
+
+<!-- Begin non-free Google Analytics Code. Remove this if you make a modification of this website, as it is nonfree, and will annoy us. 
+     This is the only piece of non-free code in the entire website. Make sure it stays that way. -->
+<script type="text/javascript">
+  // jshint ignore:start
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68625861-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End the non-free GA code -->
