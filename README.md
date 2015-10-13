@@ -4,8 +4,6 @@
 Credible Source is a wakeup call to teachers that TLDs don't mean shit for a website's legitimacy. Credit to [Daemon Schmidt](https://twitter.com/DaemonSchmidt) for support in building the site.
 
 ## Todo
-* JS linting
-* Travis linting check
 * Travis Jekyll check
 * Refinement of guide page
 
