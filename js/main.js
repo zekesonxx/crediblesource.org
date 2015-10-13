@@ -16,7 +16,6 @@
       responseType: 'json'
     }).then(function successCallback(response) {
         quotes = response.data;
-        console.log(response);
         $s.newQuote();
     }, function errorCallback(response) {
 
