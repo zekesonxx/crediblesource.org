@@ -47,7 +47,7 @@ Wikipedia is a free (as in freedom) encyclopedia. This is the first ever of it's
 
 No. Of course not.
 
-Wikipedia has a large team of editors, some are paid by the Wikimedia Foundation to moderate Wikipedia, some are paid by other groups to maintain certain topics, but the vast majority are unpaid people working in their spare time to help keep Wikipedia useful. It's this team of moderators that keeps Wikipedia clean of crap, as over 40% of vandilism is reverted nearly immediately, and the rest doesn't last too long. However, Wikipedia still isn't a good citing source, but it is an incredible tool.
+Wikipedia has a large team of editors, some are paid by the Wikimedia Foundation to moderate Wikipedia, some are paid by other groups to maintain certain topics, but the vast majority are unpaid people working in their spare time to help keep Wikipedia useful. It's this team of moderators that keeps Wikipedia clean of crap, as [over 40% of vandilism is reverted nearly immediately](https://en.wikipedia.org/wiki/User:ClueBot_NG#Statistics), and the rest doesn't last too long. However, Wikipedia still isn't a good citing source, but it is an incredible tool.
 
 Sourced encyclopedias aren't a good citing source to begin with. They're a cited secondary source, meaning that the information didn't actually come from whoever wrote the article in it. However, they're an amazing tool for finding sources. Sure, the Wikipedia article for [Benjamin Franklin][wikiben] might be wrong, but there's [over 150 sources there][wikibensources], most of which are online, available for anyone to read and verify the article.
 
@@ -58,7 +58,7 @@ You've almost certainly heard stories of a Wikipedia "[feedback loop][xkcd978]",
 Encourage your students to use Wikipedia to find sources, or to even use for a source on smaller assignements, so long as they check the article's edit history, and check around to make sure that the information in the article is correct, and isn't the result of a feedback loop, deliberate misinformation, or any other source of bad info.
 
 ### Walled Garden Tools
-EBSCO (and it's sisters) are shit, and are useless to everyone. It hides all the bad sources from students, meaning they can never learn how to properly disgintuish them. You wouldn't tell a student to only trust books from your school library, because they can't access it after they leave school, and you don't even know if everything there is completely true.
+EBSCO (and its sisters) are shit, and are useless to everyone. It hides all the bad sources from students, meaning they can never learn how to properly disgintuish them. You wouldn't tell a student to only trust books from your school library, because they can't access it after they leave school, and you don't even know if everything there is completely true.
 
 Walled garden tools are still useful, as sometimes you just don't want to deal with finding good sources, but it's important to teach students the context they live under.
 
