@@ -1,5 +1,5 @@
 # Credible Source
-[![Live Site](https://img.shields.io/badge/site-live-blue.svg?style=plastic)](https://crediblesource.org/) [![Travis](https://img.shields.io/travis/zekesonxx/crediblesource.org.svg)]()
+[![Live Site](https://img.shields.io/badge/site-live-blue.svg?style=plastic)](https://crediblesource.org/) [![Travis](https://img.shields.io/travis/zekesonxx/crediblesource.org.svg?style=plastic)](https://travis-ci.org/zekesonxx/crediblesource.org)
 
 Credible Source is a wakeup call to teachers that TLDs don't mean shit for a website's legitimacy. Credit to [Daemon Schmidt](https://twitter.com/DaemonSchmidt) for support in building the site.
 
