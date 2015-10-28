@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/zekesonxx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://crediblesource.org
+  * I am zekesonxx (https://keybase.io/zekesonxx) on keybase.
+  * I have a public key with fingerprint 79B1 898A 53A8 71BF 4D20  2E77 8CD2 657
+0 9BFD E00E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.23"
+        },
+        "key": {
+            "eldest_kid": "010186cafc09ad0d99fe75eb1c544d6923d362a7debb61cf76007506cd53ac3a90b70a",
+            "fingerprint": "79b1898a53a871bf4d202e778cd265709bfde00e",
+            "host": "keybase.io",
+            "key_id": "8cd265709bfde00e",
+            "kid": "010186cafc09ad0d99fe75eb1c544d6923d362a7debb61cf76007506cd53ac3a90b70a",
+            "uid": "473eb0e96cca09f564f670b7377f6419",
+            "username": "zekesonxx"
+        },
+        "service": {
+            "hostname": "crediblesource.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1446060806,
+    "expire_in": 157680000,
+    "prev": "d42f8156e998d4f813f6bd76ca2ec832089ab4dab6610685955dc852f040933a",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtkm1oFEcYx++0TTU0qUpEKYmmm5BYPM7Zt9mdIFjRihobW2JFG+TcmXn2XO+y
+e93dvJwShJQ0TUxFQbFaIwabCiLElhJESVMIpWAoUcEX9IMvUEqEJjSUokhMd0IK
+LfRj59Mwz+/5P//5zxwtmh8rjPfcgtyX04+K46PjNLZTrig4KFGP56WagxLLOuCG
+YudajSDVSBnIUyuApOOVux6H5P6gfI5JSM3gB47nRhRKmklFldoSghfdkOUQhKmM
+w0VVRrKJmWUzRCyOOCE2GDpQmemaxjFRVK5ixTI4UIplZhsYIUNHmHFdtZhqEUQN
+ZEUDbcdNg5/zHWFRMgiVTWJaEWQaMrU1riAFDMNkXMG6gQi1OSAEUeM+Lwj/dRlp
+1mlq1t5/8P+z76ZZOc1QgSIgmDELEVvHmo2NCFENw8aaTAQYgD8X/AHIQOC5ra0i
+1ei42WEgkhVXmUOYD9yh2Qhr8hkkPT8dSeR8L/SYl43q+8IwF9SI/jCfEw0tQFNz
+UinquNxxz6X/+Y5yhLLQEeKypmGEkYlwQoLWnONDyhGEbmATRUsMguZIk2uKbco6
+BkJMrkVb1caUG1FsCjBTVZBJLKpxi2IsI2zqRNc5M3XFRhoiqiriCeBj1xMjI6NW
+OtIMnLRrhU0+SG1d8dJXYvHCWMGr88RPjRUuXPT39833vzaTaTj1YHgEEhNbFjhD
+b744s2RHVV3Z1OOONr23gwz8tvPZ029vtr77pOONxo2V8OfLwYmPrp9cseebi39M
+dVZ/9vny+bvzQ29Nf9BQ96vZXZK6nNg7fuz8zIrLfUWH6P2T1+5suTe9v7D2F/50
+15324a+q16089n7Jxvsnlu2y2m9nepceeO+L5yvHqut//HlDz92xzj1Xr68rLe49
+lQ+fF2zHBatDuW9cfXvtBjJv85X6Hz68tW3991t7TrfcnHix/dOSqu+ODLUtvzG1
+CuKVCybPbBrsnkn1PFy6Hv10qWFyyO38+tqFwfzh0bHVlvoglIpHN/9ee+T1xEDl
+QN2a/q6RdxaXVQTHP3HO/gU=
+=yXqQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zekesonxx
+
+==================================================================
