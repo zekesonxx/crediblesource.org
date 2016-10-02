@@ -18,7 +18,8 @@
         quotes = response.data;
         $s.newQuote();
     }, function errorCallback(response) {
-
+      quotes = ["This website works perfectly.", "This website has no issues.", "This website didn't fail to load it's list of fake quotes."];
+      $s.newQuote();
     });
 
     $s.newQuote = function() {
