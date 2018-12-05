@@ -5,10 +5,10 @@
 <!-- commit: {{ site.github.build_revision }} -->
 <head>
   {% include commonhead.html %}
-  
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0-beta.1/angular.min.js"></script>
-  <script src="/js/main.js"></script>
+
+  <link rel="stylesheet" href="{{base}}/css/font-awesome.min.css">
+  <script src="{{base}}/js/angular.min.js"></script>
+  <script src="{{base}}/js/main.js"></script>
 </head>
 <body ng-app="CSapp">
   <div ng-controller="MainCtrl" class="container maindiv">
@@ -16,13 +16,13 @@
       <h1 ng-bind-html="currentQuote"></h1><br/>
     </div>
     <div class="botright center-block">
-      <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" class="text-muted" 
+      <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" class="text-muted"
          title="Creative Commons Attribution-ShareAlike 4.0 International"><i class='fa fa-creative-commons'></i></a>
-      <a href="https://github.com/zekesonxx/crediblesource.org" target="_blank" class="text-muted" 
+      <a href="https://github.com/zekesonxx/crediblesource.org" target="_blank" class="text-muted"
          title="Completely open-source, license to the left"><i class='fa fa-github'></i></a>
-      CredibleSource.org: Your source for credible information - 
+      CredibleSource.org: Your source for credible information -
       <a href="#" ng-click="newQuote()">Next Information</a> -
-      <a href="/about">What is this?</a>
+      <a href="./about">What is this?</a>
     </div>
   </div>
 </body>

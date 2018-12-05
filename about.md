@@ -13,10 +13,10 @@ A. Because literally anyone can register a .org domain.
 
 This site is built largely as a wakeup call to teachers around America (and likely in other countries) that the TLD (the thing the website ends in, `.com`, `.net`, `.org`, etc) doesn't give any proof of it's legitimacy.
 
-[For more information, see this nice page we wrote up](/how-to-find-sources)
+[For more information, see this nice page we wrote up](../how-to-find-sources)
 
 ## About Us
-CredibleSource.org is written and created by [Zach Mertes][zeke] and [Daemon Schmidt][daemon]. 
+CredibleSource.org is written and created by [Zach Mertes][zeke] and [Daemon Schmidt][daemon].
 The entire website is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International][ccbysa4] license, meaning you can do whatever you want with it so long as you attribute and share alike. All of the things on this website, including fonts, are free (as in freedom) for anyone to use.
 
 ## Credits
