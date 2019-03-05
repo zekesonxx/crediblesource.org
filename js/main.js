@@ -12,7 +12,7 @@
     $s.currentQuote = $sce.trustAs($sce.HTML, "Loading...");
     $http({
       method: 'GET',
-      url: '/quotes.json',
+      url: 'quotes.json',
       responseType: 'json'
     }).then(function successCallback(response) {
         quotes = response.data;

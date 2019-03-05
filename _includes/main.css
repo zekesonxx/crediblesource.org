@@ -1,0 +1,45 @@
+/**
+ * CSS Source Code for crediblesource.org
+ * Copyright Zach Mertes 2015
+ * Licensed under CC-BY-SA 4.0
+ */
+
+
+/* Main page */
+.maindiv {
+  height: 100%;
+  position: relative;
+  padding-bottom: 5em;
+}
+
+.quote {
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  padding-top: 50px;
+  min-height: 20em;
+}
+
+.botright {
+  font-family: 'Lato', sans-serif;
+  float: right;
+}
+
+/* The other pages */
+.pagediv {
+  padding-top: 4em;
+}
+.pagediv h1,.pagediv h2,.pagediv h3,.pagediv h4,.pagediv h5,.pagediv h6 {
+  font-family: 'Open Sans', serif;
+}
+.pagediv p, .pagediv li {
+  font-family: 'Merriweather', serif;
+}
+
+code {
+  font-family: 'Anonymous Pro', monospace;
+}
+
+.muhahaha {
+  font-family: 'Open Sans', serif;
+  font-style: italic;
+}

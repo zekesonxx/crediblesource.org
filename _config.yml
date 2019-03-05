@@ -6,3 +6,4 @@ url: "https://crediblesource.org"
 # Build settings
 markdown: kramdown
 include: [".well-known"]
+exclude: ["CNAME"]
